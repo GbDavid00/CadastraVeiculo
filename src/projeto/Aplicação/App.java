@@ -23,7 +23,6 @@ public class App {
         int opc = 0, opc2 = 0;
         char aux;
 
-        Veiculo veiculo; //Referencia s classe mae
         //Instacias
         //Nome, Cor, Combustivel, portas, rodas, cilindradas, flex
         Moto moto = new Moto("", "", "", 0, 0, 0, false);
