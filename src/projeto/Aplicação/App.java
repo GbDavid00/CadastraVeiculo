@@ -7,7 +7,6 @@ import projeto.Entidades.Aviao;
 import projeto.Entidades.Carreta;
 import projeto.Entidades.Moto;
 import projeto.Entidades.Trem;
-import projeto.Entidades.Veiculo;
 
 /**
  * @email gb-david@outlook.com
