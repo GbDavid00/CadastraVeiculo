@@ -30,13 +30,6 @@ O sistema oferece as seguintes funcionalidades:
 3. Execute o arquivo `App.class` para iniciar o programa.
 4. Siga as instruções no menu para cadastrar ou consultar veículos.
 
-**Contribuição**
-
-O projeto está em constante desenvolvimento e a comunidade é bem-vinda para contribuir com sugestões, correções de bugs e novas funcionalidades.
-
-**Licença**
-
-Este projeto está licenciado sob a licença [MIT](https://opensource.org/licenses/MIT).
 
 **Exemplos de Uso**
 
@@ -120,4 +113,4 @@ Escolha uma opção abaixo:
 
 **Agradecimentos**
 
-Agradeço a todos que contribuíram para o desenvolvimento deste projeto!
+Agradeço ao Gemini que fez esse ReadMe hahahaha!
